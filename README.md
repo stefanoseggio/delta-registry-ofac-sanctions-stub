@@ -29,7 +29,7 @@ field names match the vessel record shape OFAC's own feed exposes:
 
 ```json
 {
-  "ofacUid": "4243",
+  "uid": "4243",
   "vesselName": "EBANO",
   "sdnType": "Vessel",
   "programs": ["CUBA"],
