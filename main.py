@@ -107,7 +107,7 @@ def extract_vessel_records(xml_text, limit):
 
         records.append(
             {
-                "ofacUid": uid,
+                "uid": uid,
                 "vesselName": vessel_name,
                 "sdnType": sdn_type,
                 "programs": programs,
