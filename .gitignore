@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# Local output written by main.py on each run (see README "Setup & run")
+ofac_vessel_sample.json
