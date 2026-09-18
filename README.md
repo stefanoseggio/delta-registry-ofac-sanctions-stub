@@ -81,3 +81,8 @@ exponential backoff, and classifies every record as a new sanction, a
 sanctions-program change, an unrelated field update, or a delisting - all on
 pay-per-event pricing ($0.0005 per delivered record, plus a small one-time
 actor-start charge).
+
+## License
+
+MIT - see [LICENSE](LICENSE). This sample script is free and unrestricted;
+it is not the production actor's source.
